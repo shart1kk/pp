@@ -46,7 +46,6 @@ if __name__ == "__main__":
     online_kurs = OnlineKurs("Python для початківців", 40, 100, "Zoom")
     ofline_kurs = OflineKurs("HTML для чайників", 60, 20, "Львів")
     
-    # Виклик методів
     online_kurs.pokazaty_kurs()
     online_kurs.pokazaty_platformu()
     
